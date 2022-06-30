@@ -34,4 +34,4 @@ To run cypress testing
 #### After open Cypress Dashboard, to run E2E testing, following this instruction:
 ![cypressE2Etesting](https://user-images.githubusercontent.com/59289834/176583020-2a6af141-abe3-413f-b668-49117e05a8e6.gif)
 
-
+Link slide: https://docs.google.com/presentation/d/1vw2An0F3Pum69FVfqulvTWWjQ_DQ0yg-/edit?usp=sharing&ouid=105547125158749275218&rtpof=true&sd=true
